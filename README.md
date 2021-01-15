@@ -13,6 +13,5 @@ Open (http://localhost:3000) to view it in the browser.
 
 ## Quiz Instructions ##
 
-User starts the game with two 50/50 and three hints. A 50/50 removes two wrong answers and can be used once on one question. <br />
-The second lifeline is a hint which removes one wrong answer and can be used multiple times on one question.
+User starts the game with two 50/50 and three hints. A 50/50 removes two wrong answers and can be used once on one question. The second lifeline is a hint which removes one wrong answer and can be used multiple times on one question.
 
