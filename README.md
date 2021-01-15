@@ -1,6 +1,6 @@
 # Quizz-App #
 
-A simple quiz game built using ReactJS. Users are giving 10 trivia questions that range from sports, film, <br />
+A simple quiz game built using ReactJS. Users are giving 10 trivia questions that range from sports, film,
 geography,literature, hardware, and Greek mythology. What a mix, right?
 
 ## Installation ##
