@@ -1,4 +1,5 @@
 # Quizz-App #
+https://nostalgic-franklin-399330.netlify.app/
 
 A simple quiz game built using ReactJS. Users are giving 10 trivia questions that range from sports, film,
 geography,literature, hardware, and Greek mythology. What a mix, right?
